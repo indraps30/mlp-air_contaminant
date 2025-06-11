@@ -1,4 +1,5 @@
-# Lite-Version Python
+# Docker container will have Python version: 3.12-slim.
+# Check the Python image in the https://hub.docker.com/_/python
 FROM python:3.12-slim
 
 # Set working directory.
